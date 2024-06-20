@@ -2,7 +2,6 @@
 .vscode
 *.s
 *.cor
-*asm*
 *vm*
 corewar
 B-CPE-200_*
